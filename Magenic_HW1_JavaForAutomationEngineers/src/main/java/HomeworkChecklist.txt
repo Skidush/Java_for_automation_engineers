@@ -1,0 +1,17 @@
+TODO HOMEWORK CHECKLIST:
+PROGRAMMING TASKS
+    Calculator.java
+        [X] Pull down Homework 1's starting branch
+        [X] Finish the subtract method
+        [X] Fix the bug in the multiply method
+        [X] Run the main method to see what happens
+        [X] Run the TestNG tests and make sure they all pass
+    CalculatorTest
+        [X] Uncomment the marked lines of code
+        [X] Run all Tests
+
+SHORT ANSWERS
+    [X] Comment below what the difference between TestNG and the main method is
+        // ANSWER HERE:
+            - We don't need a main method for TestNG, we use annotations instead.
+                The main method is needed to execute a Java program.

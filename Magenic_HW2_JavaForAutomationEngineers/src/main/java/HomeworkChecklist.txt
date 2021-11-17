@@ -1,0 +1,14 @@
+TODO HOMEWORK CHECKLIST:
+PROGRAMMING TASKS
+    Square.java
+        [X] Correct the setSide method
+        [X] Fix the main method
+    Rectangle.java
+        [X] Update both the set method for rectangle like you did for square
+        [X] Write the setters for the Rectangle Class
+        [X] Write methods for the Rectangle Class
+    EquilateralTriangle.java
+        [X] Write the Triangle Class
+    SquareTest, RectangleTest and EquilateralTriangleTest
+        [X] Uncomment all marked code
+        [X] Run all Tests
